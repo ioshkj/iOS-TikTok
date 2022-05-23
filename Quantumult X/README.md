@@ -1,1 +1,1 @@
-在 Quantumult X 配置文件中添加 [rewrite_remote]
+在 Quantumult X 配置文件 [rewrite_remote] 下面添加
