@@ -8,7 +8,7 @@
 
 3、添加配置文件<br><br>
 
-## Shadowrocket TikTok解锁配置
+## Shadowrocket TikTok 解锁配置
 
 ### 操作步骤
 
@@ -22,6 +22,32 @@
     
 #### 韩国
     https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Shadowrocket/TikTok-KR.conf
+    
+<br>
 
+## Quantumult X TikTok 解锁配置
 
+### 操作步骤
+
+打开 <code>Quantumult X</code> - <code>配置</code> - 添加到 <code>[rewrite_remote]</code> 下面
+
+#### 日本
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-JP.conf, tag=TikTok-JP, update-interval=86400, opt-parser=false, enabled=true
+    
+#### 台湾
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-TW.conf, tag=TikTok-TW, update-interval=86400, opt-parser=false, enabled=true
+    
+#### 韩国
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-KR.conf, tag=TikTok-KR, update-interval=86400, opt-parser=false, enabled=true    
+
+#### 美国
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-US.conf, tag=TikTok-US, update-interval=86400, opt-parser=false, enabled=true
+    
+#### 印度
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-IN.conf, tag=TikTok-IN, update-interval=86400, opt-parser=false, enabled=true
+    
+#### 俄罗斯
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-RU.conf, tag=TikTok-RU, update-interval=86400, opt-parser=false, enabled=true
+    
+    
 
