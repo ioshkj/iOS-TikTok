@@ -43,8 +43,8 @@
 #### 美国
     https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-US.conf, tag=TikTok-US, update-interval=86400, opt-parser=false, enabled=true
     
-#### 印度
-    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-IN.conf, tag=TikTok-IN, update-interval=86400, opt-parser=false, enabled=true
+#### 新加坡
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-SG.conf, tag=TikTok-SG, update-interval=86400, opt-parser=false, enabled=true
     
 #### 俄罗斯
     https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-RU.conf, tag=TikTok-RU, update-interval=86400, opt-parser=false, enabled=true
