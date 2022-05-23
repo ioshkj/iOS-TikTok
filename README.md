@@ -52,5 +52,11 @@
 #### 法国
     https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-FR.conf, tag=TikTok-FR, update-interval=86400, opt-parser=false, enabled=true
     
+#### 越南
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-VN.conf, tag=TikTok-VN, update-interval=86400, opt-parser=false, enabled=true
+    
+#### 泰国
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-TH.conf, tag=TikTok-TH, update-interval=86400, opt-parser=false, enabled=true
+    
     
 
