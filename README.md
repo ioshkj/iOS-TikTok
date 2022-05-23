@@ -49,5 +49,8 @@
 #### 俄罗斯
     https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-RU.conf, tag=TikTok-RU, update-interval=86400, opt-parser=false, enabled=true
     
+#### 法国
+    https://raw.githubusercontent.com/eujc/iOS-TikTok/main/Quantumult%20X/TikTok-FR.conf, tag=TikTok-FR, update-interval=86400, opt-parser=false, enabled=true
+    
     
 
