@@ -2,7 +2,7 @@
 
 ### 操作步骤
 
-1、下载 Shadowrocket 或 Quantumult X   （<a href="https://mp.weixin.qq.com/s/uCv0KZ55_gdov5_E-DoaZA" target="_blank">美区AppleID注册教程</a>）
+1、下载 Shadowrocket 或 Quantumult X   （<a href="https://mp.weixin.qq.com/s/TYXZnCb0yFIDhtRaSF588w" target="_blank">美区AppleID注册教程</a>）
 
 2、下载旧版 TikTok 21.1.0
 
